@@ -2,7 +2,7 @@
 
 <p align="center">
 
-<img src="./public/images/favicon-128.png" alt="Amigo" />
+<img src="https://raw.githubusercontent.com/akshatmittal61/amigo/master/public/images/favicon.png" alt="Amigo" />
 
 </p>
 
