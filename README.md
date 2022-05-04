@@ -13,7 +13,7 @@ Amigo is a MERN Stack Web application for recording everyday diary.
 -   Clone the repository in your local machine
 
 ```sh
-git clone https://github.com/akshatmittal61/amigo.git
+git clone https://github.com/akshat-khosya/amigo-backend.git
 ```
 
 -   Enter into the repository
