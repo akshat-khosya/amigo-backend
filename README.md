@@ -19,7 +19,7 @@ git clone https://github.com/akshat-khosya/amigo-backend.git
 -   Enter into the repository
 
 ```sh
-cd amigo
+cd amigo-backend
 ```
 
 -   Install the node modules
